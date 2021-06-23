@@ -1,3 +1,5 @@
 Push 할려고 만든 txt파일 입니다.
 
-Pull 하는 중입니다.
+Pull 하는 중입니다
+
+Branch 만들고 Pull 해서 push 할 예정입니다..
