@@ -1,3 +1,5 @@
 adfsdflkjasfdlkajsflk
 
 mino-0으로 아이디를 ㅏㅂ궜다
+
+이건 브랜치로 하는 방법ㅇ입니다.
